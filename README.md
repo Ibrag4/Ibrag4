@@ -8,8 +8,6 @@ Hoje trabalho como estagiária com PHP, participando do desenvolvimento e manute
 
 Também tenho estudado UX/UI pra melhorar a forma como penso e construo as interfaces no dia a dia.
 
-Estou em busca de uma oportunidade como desenvolvedora júnior, onde eu possa continuar aprendendo, contribuir com o time e crescer na área.
-
 Antes de migrar pra tecnologia, trabalhei na área administrativa, o que me ajudou a desenvolver organização, responsabilidade e trabalho em equipe — coisas que levo comigo até hoje.
 
 🔧 Tecnologias: PHP, HTML, CSS, JavaScript, React, Bootstrap, Figma
